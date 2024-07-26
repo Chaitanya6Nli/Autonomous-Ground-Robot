@@ -1,7 +1,7 @@
-                                                              AUTONOMOUS GROUND ROBOT
-                                                        Quark Summer Technical Project - 2024
-                                                            Electronics and Robotics Club
-                                                           BITS Pilani K.K Birla Goa Campus
+                                                          AUTONOMOUS GROUND ROBOT
+                                                     Quark Summer Technical Project - 2024
+                                                        Electronics and Robotics Club
+                                                       BITS Pilani K.K Birla Goa Campus
 
 >>Introduction-
 Mentors: Ajinkya Deshpande, Ritwik Sharma, Vimarsh Shah
