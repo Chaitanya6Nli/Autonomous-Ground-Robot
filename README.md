@@ -4,6 +4,7 @@
                                                        BITS Pilani K.K Birla Goa Campus
 
 >>Introduction-
+Student Name: Chaitanya Belekar, SY-BTech Robotics and Automation, KKWIEER, Nashik.
 Mentors: Ajinkya Deshpande, Ritwik Sharma, Vimarsh Shah
 
 
