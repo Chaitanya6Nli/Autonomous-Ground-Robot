@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'pid_controller = week3_assignment.pid_controller:main'
+            'pid_controller = week3_assignment.pid_controller:main', 'week3_assignment.path_planner',
         ],
     },
 )
